@@ -27,5 +27,5 @@ class User {
     }
 
     // Consider adding a getter for password (hashed) for potential future use
-    // but avoid returning the actual password for security reasons.
+    // but avoid returning the actual password for security reasons..
 }
